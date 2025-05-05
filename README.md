@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [ Yes ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-- Gifs are not working for some reason but here are screenshots:
+- Gifs are not working for some reason but here is a screenshot:
 
 ![Image](https://github.com/user-attachments/assets/6870cbc3-d4c4-4cff-97ca-2d132a4199c9)
 
