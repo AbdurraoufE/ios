@@ -18,8 +18,6 @@ The following **required** functionality is completed:
 
 ![Image](https://github.com/user-attachments/assets/6870cbc3-d4c4-4cff-97ca-2d132a4199c9)
 
-![Image](https://github.com/user-attachments/assets/8677baa3-551c-4adb-813b-4b63306b17f4)
-
 ## App Brainstorming (Step 4)
 App: Google Maps:
 - Traffic updates
