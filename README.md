@@ -14,10 +14,11 @@ The following **required** functionality is completed:
 - [ Yes ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+- Gifs are not working for some reason but here are screenshots:
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+![Image](https://github.com/user-attachments/assets/6870cbc3-d4c4-4cff-97ca-2d132a4199c9)
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![Image](https://github.com/user-attachments/assets/8677baa3-551c-4adb-813b-4b63306b17f4)
 
 ## App Brainstorming (Step 4)
 App: Google Maps:
