@@ -1,6 +1,6 @@
-# Prework - *Name of App Here*
+# Prework - *The Basics*
 
-Submitted by: **Your Name Here**
+Submitted by: **Roofa Etagiuri**
 
 **The Basics** is an app that shows basic components used in IOS development  
 
